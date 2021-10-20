@@ -5,15 +5,15 @@ This repo is aiming to figure out the trends of cryptocurrencies by visualizing 
 
 ## Overview
 
-- `Requests.get API`
-- Sorting out the data in certain period by using `loc`
-- Setting up index for data frame 
-- Changing the time format using `to_datetime`
+-  Requests.get API
+- Sorting out the data in a certain period by using loc
+- Setting up an index for data frame
+- Changing the time format using to_datetime
 - Exploring the data set using pandas commands
-- Plotting the single version of graph and the combined version of graph
-- Combining each data frames into one data frame by using `append()` 
-- Creating new column and rearrange the data frame
-- Converting value to `log` format
+- Plotting the single version of the graph and the combined version of the graph
+- Combining each data frame into one data frame by using append()
+- Creating a new column and rearranging the data frame
+- Converting value to the log format
 </br>
 
 ## How to Run
