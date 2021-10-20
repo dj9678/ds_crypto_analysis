@@ -1,4 +1,4 @@
-# ds_cryptocurrency_trends
+# ds_crypto_analytics
 
 This repo is aiming to figure out the trends of cryptocurrencies by visualizing the historical market data. I will use Cryptowatch API to collect the historical market price of big cryptocurrencies such as Bitcoin, Ethereum, and Dogecoin. I will plot individual graph for each coin, then plot all of graph together. Even though it is well known fact that crpytocurrency market is heavily affected by the price movement of bitcoin and etherium, it will be still fun to check out the trend through the graphes.
 </br></br>
