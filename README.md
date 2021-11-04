@@ -18,4 +18,4 @@ This repo is aiming to figure out the trends of cryptocurrencies by visualizing 
 
 ## How to Run
 
-Simply click `crypto_analytics.ipynb` on main page of this repo
+Simply click `crypto_analysis.ipynb` on main page of this repo
